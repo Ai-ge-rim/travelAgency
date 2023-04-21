@@ -634,9 +634,8 @@ padding: 93px 100px 88px 100px;
 position: absolute;
 top: 0;
 left:0;
--webkit-transform: translateY(-100%);
-    -ms-transform: translateY(-100%);
-        transform: translateY(-100%);
+
+        transform: translateY(-50%);
 background-color: white;
 }
 .benefits_cards{
