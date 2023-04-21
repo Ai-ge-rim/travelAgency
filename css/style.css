@@ -993,6 +993,7 @@ margin: 0 auto 0 0 ;
 @media screen and (max-width: 960px) {
     .benefits {
         margin-bottom: 75px;
+        transform: none;
     }
     .benefits_card{
         margin-bottom: 60px;
@@ -1161,6 +1162,7 @@ margin: 0 auto 0 0 ;
     }
     .benefits{
         margin-bottom: 35px;
+        transform: none;
     }
     .benefits_title{
         padding: 15px 10px;
@@ -1230,5 +1232,19 @@ margin: 0 auto 0 0 ;
     .header_nav{
         padding: 75px 30px;
     }
+    .intro{
+        padding-top: 125px;
+   }
+   .intro_title{
+       font-size: 22px;
+       line-height: 48px;
+   }
+   .intro_subtitle{
+       font-size:  14px;
+   }
+   .benefits {
+    margin-bottom: 25px;
+    transform: none;
+}
 }
 /* Media End */
